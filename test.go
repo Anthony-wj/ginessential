@@ -1,10 +1,10 @@
-package main
+// package main
 
-import (
-	"math/rand"
-	"time"
-)
+// import (
+// 	"math/rand"
+// 	"time"
+// )
 
-func main() {
-	rand.Seed(time.Now().Unix())
-}
+// func main() {
+// 	rand.Seed(time.Now().Unix())
+// }
